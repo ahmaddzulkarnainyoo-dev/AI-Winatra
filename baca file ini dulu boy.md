@@ -1,5 +1,5 @@
 [baca ini dulu boy.md](https://github.com/user-attachments/files/31736928/baca.ini.dulu.boy.md)
-# Readme First / Baca Ini Dulu Boy 🚀
+# Readme First / Baca Ini Dulu Boy 
 
 Selamat datang di proyek **Winatra AI (Notification-Based AI Assistant)**.
 
